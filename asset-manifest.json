@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/robofriends/static/css/main.3c0048f6.chunk.css",
+    "main.js": "/robofriends/static/js/main.d43d1933.chunk.js",
+    "main.js.map": "/robofriends/static/js/main.d43d1933.chunk.js.map",
+    "runtime~main.js": "/robofriends/static/js/runtime~main.fb41d28d.js",
+    "runtime~main.js.map": "/robofriends/static/js/runtime~main.fb41d28d.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/robofriends/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.1a543e43.chunk.js": "/robofriends/static/js/2.1a543e43.chunk.js",
+    "static/js/2.1a543e43.chunk.js.map": "/robofriends/static/js/2.1a543e43.chunk.js.map",
+    "index.html": "/robofriends/index.html",
+    "precache-manifest.71c1417a0a4d7d7b50a289c034729aae.js": "/robofriends/precache-manifest.71c1417a0a4d7d7b50a289c034729aae.js",
+    "service-worker.js": "/robofriends/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/robofriends/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.3c0048f6.chunk.css.map": "/robofriends/static/css/main.3c0048f6.chunk.css.map",
+    "static/media/App.css": "/robofriends/static/media/Patchy Robots.3eb2be46.woff"
+  }
+}
