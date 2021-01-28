@@ -7,4 +7,4 @@ for user information and RoboHash for user images. Style for the page makes
 use of the Tachyons framework.
 
 # Demo
-[trick94.github.io/robofriends] (https://trick94.github.io/robofriends/)
+https://trick94.github.io/robofriends/
